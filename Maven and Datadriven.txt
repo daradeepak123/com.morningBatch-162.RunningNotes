@@ -1,0 +1,46 @@
+
+
+Agenda
+	1. Maven
+	2. Data driven  
+		a. property
+		b. excel reading
+	3. data driven with selenium
+	4. data driven and keyword driven with selenium
+
+
+
+Read the data from the file
+
+1. location of file
+2. open the file
+3. read the data from the file
+
+
+
+Read data from Excel file
+
+
+Location
+
+load
+
+recognize as excel file
+
+navigate to sheet
+
+retrieve data
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

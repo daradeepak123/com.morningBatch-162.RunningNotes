@@ -1,0 +1,54 @@
+
+
+Agenda
+	1. variables
+	2. dataTypes
+
+
+
+vari ables    data stored in it
+
+variables nothing but a container
+
+water bottle=1ltr of petrol
+
+DataTypes
+	a. primitive
+		1. byte   -127 to 128 numbers
+			byte var=120;
+			byte bb=0;
+			byte abc=22;
+		2. short   ~ -32000 to 32000
+			short st=0;
+		3. int     ~ -2413000000 to  2413000000
+			int i=0;
+		4. long    long lng= 1230129082309423l;
+		5. double  
+			double dd=3.33333333333333333333333333333;
+		6. float
+			float fl=3.3333f;
+		7. char
+			char ch='@';
+		8. Boolean
+			Boolean bool=true;
+	b. non primitive 
+		1. class
+		2. object
+		3. arrays
+		4. String address="2.0 nd Floor, Plot No. 850, Road No. 45, 100 Feet Rd, Ayyappa Society, Hyderabad, Telangana 500081";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

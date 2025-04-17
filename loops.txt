@@ -1,0 +1,143 @@
+
+
+
+Agenda
+	1. loops
+		a. simple for loop	
+		b. for each loop
+		c. while loop
+		d. do while loop
+		e. nested loop
+
+	2. debug mode
+
+simple for loop
+
+for(initialization; condition; increment/decrement)
+{
+
+statements to be executed;
+}
+
+1. Manager asked to print 1 - 10 numbers
+
+syso(1);
+syso(2);
+syso(3);
+syso(4);
+syso(5);
+syso(6);
+syso(7);
+syso(8);
+syso(9);
+syso(10);
+
+
+
+1. identify odd even numbers between 1-100;
+
+
+
+97
+
+if(97%2==0)
+{
+syso(given number is even)
+
+}
+
+else
+{
+syso(given number is odd);
+}
+
+
+
+print 6 table till 10
+
+
+6*1=6
+6*2=12
+
+
+6*10=60
+
+int num=6;
+
+
+for(int i=1;i<=10;i++)
+{
+syso(num+"*"+i+"="+i*6);
+}
+
+
+
+
+
+prime number
+
+
+only 2 factors self and one
+
+7
+
+6
+
+
+
+97
+
+97%2==0
+
+97%3==0
+
+97%4==0
+
+
+
+
+
+
+
+
+package loops;
+
+public class PrimeNumberCheck {
+
+	public static void main(String[] args) {
+		int num=96;
+		boolean flag=false;
+		for(int i=2;i<num;i++)
+		{
+			
+			if(num%i==0)
+			{
+				flag=true;
+			}
+		}
+
+		if(flag)
+		{
+			System.out.println(num+ "is not a prime number");
+		}
+		else
+		{
+			System.out.println(num+ "is a prime number");
+		}
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

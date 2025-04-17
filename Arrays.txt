@@ -1,0 +1,55 @@
+
+
+
+
+Agenda
+	1. Arrays
+
+	1. arrays can store multiple homogeneous data with single variable
+	2. arrays are size specific
+	3. arrays can store data with single variable
+	4. memory management
+	5. arrays practices index to add or retrieve data from array
+	6. syntax
+	7. initially they store default values
+	8. arrays will welcome duplicated data
+	
+
+datatype varName[]=new dataType[10];
+
+String str[]={"welcome","quality","thought","java selenium"};
+
+int abc=100;  //4bytes
+
+int a[]=new int[10]   //4*10  => 40bytes
+
+4bytes
+
+i wanted to store 
+
+
+20 44 332 4353234  11 2 0 41 4324
+
+int a=20;
+int b=332;
+int c=44;
+
+
+Random
+
+
+Store 1- 100 numbers in array
+
+store 2 multiples in it
+
+
+
+
+
+
+
+
+
+
+
+

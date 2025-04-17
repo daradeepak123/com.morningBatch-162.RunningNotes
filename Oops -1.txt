@@ -1,0 +1,186 @@
+
+
+
+Agenda
+	1. object
+	2. class
+	3. method
+	4. inheritance
+		a. single
+		b. multi level
+		c. hierarchical 
+		d. hybrid
+
+
+	5. polymorphism
+		a. method overloading
+
+
+		b. overriding
+
+
+
+
+
+
+	6. abstraction
+	7. encapsulation 
+
+
+
+
+public class ABC
+{
+
+
+public void hello()
+{
+stm1
+}
+
+public void hello(int a)
+{
+stm2
+
+}
+
+p s v m()
+{
+ABC o=new ABC();
+
+o.hello(1000);
+syso(100);
+
+}
+
+
+
+}
+
+
+
+
+Overriding
+
+
+class ABC
+{
+
+p v hello()
+{
+
+}
+
+
+}
+
+
+class XYZ extends ABC
+{
+
+p v hello()
+{
+statements
+} 
+
+}
+
+
+
+
+1. overriding is concept applicable for non static methods
+	can you override main method
+
+
+
+class ABC
+{
+p s v hello()
+{
+statement
+}
+
+p s v m()
+{
+print (ABC class)
+}
+
+}
+
+class XYZ extends ABC
+{
+p s v m()
+{
+hello();
+print(XYZ class)
+}
+
+}
+
+
+
+
+
+Abstraction
+
+
+	a. abstract method
+	b. abstract class
+	c. interface
+
+
+public abstract void welcome();
+
+public void hello()
+{
+statements;
+}
+
+public abstract class hello()
+{
+public abstract void welcome();
+
+public void hello()
+{
+statements;
+}
+
+}
+
+
+cannot create object for abstract class and interface
+
+
+
+Car
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

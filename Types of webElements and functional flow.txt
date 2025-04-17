@@ -1,0 +1,86 @@
+
+
+
+
+Agenda
+	1. Action class
+
+		WebDriver driver=new ChromeDriver();
+		
+	2. functional flow
+
+		1. open application
+		2. login
+		3. validate
+		4. perform some more action
+
+
+
+	3. common methods for Selenium
+
+	4. waits
+		1. implicitly wait
+		2. explicitly wait
+		3. fluent wait
+
+	5. webElements
+
+
+WebDriverWait wait=new WebDriverWait(driver,Durtion.ofSeconds(10));
+
+
+
+
+relations in xpath
+
+
+	VenkatRao
+
+
+
+	varsha reddy
+
+
+
+<venkat>
+	<chiru type="megastar"></chiru>
+	<nagbabu type="pro"></nagbabu>
+	<pavan type="powerstar"></pavan>
+</venkat>
+
+//chiru[@type='megastar']/parent::venkat
+
+
+<jagan type="x cm">
+	<varsha></varsha>
+</jagan>
+
+
+
+
+1   	opened browser
+2	loaded URL
+3	interacting with element 
+4	2
+5       3
+6
+7
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		

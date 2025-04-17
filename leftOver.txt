@@ -1,0 +1,39 @@
+
+
+
+
+Agenda
+	1. Cucumber
+	2. git and Jenkins
+	
+
+
+
+
+@Given("User wants to open browser")
+public void openBrowser()
+{
+
+
+}
+
+
+we will learn git
+
+
+
+
+
+
+Jenkins jobs
+
+
+
+
+
+
+
+
+
+
+

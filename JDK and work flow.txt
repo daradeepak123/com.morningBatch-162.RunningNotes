@@ -1,0 +1,72 @@
+
+Recap
+
+Demo
+	Testing 
+
+
+
+1. core java
+2. basics of html
+3. locators
+4. selenium
+5. data driven
+6. keyword friven
+7. testing
+8. maven
+9. pom
+10. cucumber
+11. Jenkins
+12. git and github
+
+
+JDK 
+
+
+
+
+
+
+
+Agenda
+	1. JDK    Java development kit	
+	2. back end work flow
+	3. IDE  Integrated development environment
+
+
+Advanced tools like
+	1. eclipse
+	2. intellJ
+	3. OpenText
+	4. NetBeans
+	5. Spring
+	6. VS
+
+
+kit
+
+Tool kit
+
+medical kit / first aid kit
+
+
+car tool kit  ->  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

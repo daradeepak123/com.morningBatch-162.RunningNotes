@@ -1,0 +1,28 @@
+
+
+
+
+Agenda
+	1. TestNg framework
+	2. Asserts
+
+
+
+
+1. open browser
+2. load app
+3. login
+4. click on dashboard
+
+
+expected 
+
+1. browser should be opened
+2. application should be fully loaded / should be able to see login page
+3. login should be successful 
+4. validate dashboard heading is visible
+
+String title=dtiver.getTitle();
+
+
+

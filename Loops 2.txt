@@ -1,0 +1,122 @@
+
+
+
+Agenda
+	1. Loops
+		a. infinite loop
+		b. break
+		c. continue
+		
+	2. while
+	3. do while
+	4. Nested loops 
+	5. Star programs
+
+
+int aa=0;
+for(int i=1;i<=100;i++)
+{
+aa++;
+}
+
+syso(aa);
+
+
+
+
+for(int i=0;i<10;i--)    // 0      -11<10
+{
+
+statements
+}
+
+
+
+While
+	
+initialize
+ 
+
+while(true/false)
+{
+increment 
+}
+
+
+int i=1000;
+
+
+while(i<=100)
+{
+syso(i);
+i++;
+}
+
+
+int i=101;
+
+do{
+statement;
+}while(i<=100);
+
+do while
+
+
+
+
+
+Assignment
+
+
+1. Find out all odd even numbers from 1-100
+2. find prime number 
+3. tables
+
+	while
+	do while
+4 Print tables from 1- 10 using nested loops
+Note: make sue of mrthods
+
+
+
+I wanted to know prime numbers from 1 - 100
+
+
+
+for(int i=1;i<=100;i++)
+{
+
+Boolean flag=false;
+for(int j=2;j<i;j++)
+{
+if(i%j==0)
+{
+flag=true;
+break;
+}
+}
+if(flag)
+{
+syso(not prime);
+}
+else
+{
+syso(prime)
+}
+
+}
+
+
+
+* 
+* *
+* * *
+* * * *
+* * * * *
+
+
+
+
+
+
+

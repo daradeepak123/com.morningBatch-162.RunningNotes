@@ -1,0 +1,109 @@
+
+
+
+
+Agenda
+	1. String
+		a. print string
+
+
+String str="Quality thought";
+syso(str);
+
+syso(str.charAt(0));
+
+
+
+Q
+u
+a
+l
+i
+t
+y
+
+t
+h
+o
+u
+h
+t
+
+
+int len=str.length();
+
+for(int i=0;i<len;i++)
+{
+syso(str.charAt(i));
+}
+
+
+
+
+Print string in reverse mode
+
+
+Quality thought
+
+thguoht ytilauQ
+
+
+
+
+for(int i=str.lenght-1;i>=0;i--)
+{
+syso(str.charAt(i));
+}
+
+
+
+
+
+palindrome 
+
+
+mom 
+
+mom
+
+
+
+
+String str="mom and dad are going to meet madam";
+
+
+
+String word[]=str.split(" ");
+
+
+String str="racecar";
+
+
+
+int fPosition=str.indexOf('r');
+int lPosition=str.lastIndexOf('r');
+
+
+
+Installation of tools
+
+a. JDK
+b. eclipse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

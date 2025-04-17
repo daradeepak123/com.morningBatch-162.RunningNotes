@@ -1,0 +1,63 @@
+
+
+
+Agenda
+	1. WebElements
+	2. windowhandle
+	3. wnadowhandles
+	4. frames
+	5. alerts
+	6. screenshot
+
+WebElement ele=driver.findElemenmt(By.xpath(""));
+
+List<WebElement> eleS=driver.findElemenmts(By.xpath(""));
+
+ 
+findElement()   single webElement
+
+
+findElements()  List<WebElement>
+
+
+
+for each loops
+
+String str[]=new String[100];
+
+
+for(int i=0;i<str.length;i++)
+{
+str[i]=randomData;
+}
+
+for(int i=0;i<str.lrngth;i++)
+{
+
+String ss=str[i];
+syso(ss);
+
+}
+
+for(String ss : str)
+{
+
+syso(ss)
+}
+
+alerts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 

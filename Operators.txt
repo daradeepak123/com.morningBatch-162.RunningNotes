@@ -1,0 +1,140 @@
+
+
+
+Agenda
+	1. Operators
+		
+		a. assignment operators
+			= += -+  *= /+ %= &= |=
+
+int a=100;
+a*=100;
+
+
+
+		b. Arithmetic operators
+			+ - * / %
+
+int a=100;
+int b=200;
+ int c=a*b;
+
+int c=b%a;
+
+
+	syso(c);	
+		c. relational or comparator operators
+
+			< > <= >= == !=
+
+int a=100;
+int b=100;
+
+a<b  false
+a>b  false
+a<=b true
+a>=b true
+a==b true
+a!=b false
+
+
+		d. logical operators
+			| & !
+
+true & false = false
+
+A	B	A|B	A&B	!A	!B
+TRUE	TRUE	TRUE	TRUE	FALSE	FALSE
+TRUE	FALSE	TRUE	FALSE	FALSE	TRUE
+FALSE	TRUE	TRUE	FALSE	TRUE	FALSE
+FALSE	FALSE	FALSE	FALSE	TRUE	TRUE
+
+
+
+		e. incremental/decremental operators
+			++     --
+		post increment
+		pre increment
+
+		post decrement
+		pre decrement
+
+
+1 int a=100;
+2 a++;
+3 syso(a);
+4 a--;
+5 syso(a);
+
+
+	2. Conditions
+		1. simple if
+		2. else if
+		3. nested if
+		4. ladder if
+		5. switch cases
+		
+
+father said if you get more than 500 in tenth than you will get bicycle 
+
+
+int marks=501;
+
+if(marks>500)
+{
+get bicycle
+}
+else
+{
+statement
+}
+
+
+father said
+	1. get more than 500 get bicycle
+	2. bet more than 400 get outing
+	3. get more than 300 get new dress
+	4. get less than 300 or equals join as gumasta  
+
+
+int marks=250;
+
+if(marks>500)
+{
+get bicycle
+}
+else if(marks>400)
+{
+get outing
+}
+else if(marks>300)
+{
+get new dress
+}
+else
+{
+join as gumasta
+}
+
+
+nested if
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

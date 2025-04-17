@@ -1,0 +1,123 @@
+
+
+
+
+Agenda
+	1. Types of variable 
+		a. local variables    
+			are declared inside method
+			they cannot come out of method
+		b. global variables
+			are declared at class level outside method
+			with static key word infront of it
+		c. instance variables
+
+			are declared at class level outside method
+			with out static key word infront of it
+	2. static keyword	
+	x	
+
+
+
+
+public class ABC()
+{
+
+static int z=1000;
+
+int c=100000;
+
+p v hi()
+{
+
+}
+
+p s v t()
+{
+int x=100;
+
+}
+
+p s v a()
+{
+int y=100;
+} 
+
+
+
+}
+
+
+
+
+static 
+
+
+	fixed and one time memory allocated to it's members
+
+
+
+
+
+Object
+
+	1. state
+	2. behaviour
+
+
+
+className referencename = new className();
+
+
+class ABC
+{
+
+int a=100;
+static int xyz=10;
+p s v m(s a[])
+{
+
+ABC obj=new ABC();
+syso(obj.a);
+syso(xyz);
+}
+
+
+
+
+}
+
+
+Assignment
+1. create local global and instance variables
+2. Call with reference
+3. call with member
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

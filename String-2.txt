@@ -1,0 +1,95 @@
+
+
+
+Agenda
+	1. String examples
+
+
+
+a. identify numbers special characters and alphabets in the given string
+
+String str="Qu@lity ThOught 123235 !@#$";
+int num=0;
+int alpha=0;
+int spl=0;
+for(int i=0;i<str.length();i++)
+{
+if(Character.isDigit(str.carAt(i)))
+{
+num++;
+}
+else if(Character.isAlphabet(str.charAt(i)))
+{
+alpha++;
+}
+else
+{
+spl++;
+}
+
+
+}
+
+syso(num +"        "+ alpha+"      "+spl);
+
+
+
+
+String str="Quality ThOuGht";
+
+for(int i=0;i<str.length();i++)
+{
+if(Character.isUpperCase(str.carAt(i)))
+{
+syso(Character.toLowerCase(str.carAt(i)))
+}
+else
+{
+syso(Character.toUpperCase(str.carAt(i)))
+
+}
+
+
+}
+
+
+OOPS concepts
+
+	
+1. Object
+2. method
+3. class
+4. inheritance
+	a. single level
+	b. multi level
+	c. hierarchical
+	d. hybrid 
+5. polymorphisms 
+	overloading
+	overriding
+6. abstraction
+7. encapsulation
+
+access modifier
+setter getter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

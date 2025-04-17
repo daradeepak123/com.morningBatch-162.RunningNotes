@@ -1,0 +1,119 @@
+
+
+Agenda
+	1. Exceptions
+	2. data provider
+
+
+
+i will provide data
+
+
+@DataProvider
+public Object[][] dp()
+{
+
+return new {
+
+	    {Hello,hello123},
+
+	    {Hello1,hello13}
+
+}
+
+}
+
+
+Object o="adasd";
+
+int a=100;
+
+String ss="100";
+
+Boolean b='a';
+
+
+
+
+
+@DataProvider(name="dp")
+public Object dataaaProvider()
+{
+		
+	
+		 
+
+return new Object[][] {  {Admin,admin123}, 
+			 {Admin,admin123},  
+			 {Admin,admin123},
+		         {Admin,admin123}
+		      };
+
+
+}
+
+@Test(dataprovider ="dp")
+public void loginTest(String uName,String pwd)
+{
+open browser
+login with username (uName) password (pwd)
+
+driver.quit();
+}
+
+
+
+
+
+
+
+@Test
+public void loginCred1()
+{
+open b
+
+enter set 1 data to login
+log our
+close browser
+}
+
+@Test
+public void loginCred2()
+{
+open b
+
+enter set 2 data to login
+log our
+close browser
+}
+
+
+@Test
+public void loginCred3()
+{
+open b
+
+enter set 3 data to login
+log our
+close browser
+}
+
+
+@Test
+public void loginCred4()
+{
+open b
+
+enter set 4 data to login
+log our
+close browser
+}
+
+
+
+
+
+
+
+
+		

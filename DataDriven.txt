@@ -1,0 +1,94 @@
+
+
+Agenda
+	1. Store excel data in array
+	2. use retrieved data from excel in selenium
+	3. Create generic methods 
+	4. TestNG
+
+
+Without main method we can't run the class
+
+
+
+
+
+int a[]=new int[3];
+
+
+int a[0]=0;
+int a[1]=0;
+int a[2]=0;
+
+
+
+JUnit       5
+
+
+TestNG      20
+
+
+
+
+
+Annotations  @
+
+Set up and installation for TestNG
+
+
+Install testNG extension in eclipse
+
+Add testNG dependency  to project
+
+add testNG library
+
+
+
+Sequences of annotations
+
+
+
+@BeforeSuite   open testcases doc
+
+@BeforeTest    open browser
+
+@BeforeClass   load url and login
+
+@Before Method be at the test area
+
+@Test		perform test
+
+@AfterMethod    clean up activity
+
+@AfterClass    logout
+
+@AfterTest     close browser
+
+@AfterSuite    close the data set
+
+
+
+
+@DataProvider   manage the data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

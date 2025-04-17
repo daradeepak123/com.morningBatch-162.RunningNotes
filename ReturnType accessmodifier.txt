@@ -1,0 +1,133 @@
+
+
+Agenda
+	1. return type
+	2. access  modifiers 
+
+
+public void hello()
+{
+int a=100;
+
+a=a+500;
+
+}
+
+
+
+
+public static void main(String args[])
+{
+
+}
+
+ShopKeeper 
+
+
+asked for softDrink
+
+sd
+
+went shopkeeper
+	nothing
+
+
+RiceMill
+
+	
+public static int abc()
+{
+int a=100;
+a=500*100;
+return a
+}
+p s v add(int a,int b)
+{
+syso(a+b);
+}
+p s v m(S a[])
+{
+int uuu=abc();
+add(uuu,500);
+
+}
+
+
+purpose of method
+
+reusable 
+maintainable 
+
+
+will anything come out of method
+
+No
+
+
+p s int add()
+{
+int a=100,b=500;
+int c=a+b;
+return c
+}
+p s v m()
+{
+int aa=add();
+
+}
+
+(100+6000)-1000
+
+p s int add(int a,int b)
+{
+return a+b;
+}
+
+
+p s int sub(int a,int b)
+{
+return (a-b);
+
+}
+p s v m(S a[])
+{
+int a=add(100,6000);
+int b=sub(a,1000);
+syso(b)
+}
+
+2. access  modifiers 
+
+
+	1. public
+	2. default  with in the class  and with in the package
+	3. protected
+	4. private
+class A{
+public int abc=100;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

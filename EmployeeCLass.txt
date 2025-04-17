@@ -1,0 +1,76 @@
+
+
+Datatypes
+variables
+static non static
+object
+methods
+constructors
+accessmodifiers
+
+
+
+Agenda
+	1. constructors
+	2. Employee/Student class
+
+
+
+
+
+
+Management
+	1. collect all the students data
+	2. print all details of students
+
+
+
+class Student
+{
+
+int id;
+int age;
+String name;
+String gender;
+String dept;
+String add
+String phNo;
+String course;
+static int fee;   10000
+String company;
+static String instuite;
+
+
+
+}
+
+
+1. why variables are not initialized?
+2. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

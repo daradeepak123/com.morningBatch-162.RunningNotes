@@ -1,0 +1,124 @@
+
+
+
+Agenda
+	1. Introduction
+	2. What is Testing
+	3. Importance of testing
+		
+
+		Wedding cards
+		
+		Vendors
+			all info with vendor
+		4-5 crads
+		grammar issues
+		theme
+		alignment   
+
+		business 3 
+
+		1000 all cards
+
+		XYZ
+			loan
+			100.0%
+		Test team
+			0 rs 1yr
+			100000 1
+			100000 10y
+
+Software testing
+
+
+
+
+	4. Types of testing
+		a. functional testing
+			1. manual testing
+				a. smoke testing
+				b. functional testing
+				c. sanity test
+				d. Regression test
+					
+				e. system test
+				f. Trail error
+				g. adhoc test
+			2. Automation testing
+
+				1. Selenium
+				2. Cypress
+				3. TestCafe
+				4. Protractor
+				5. Katalon
+				6. QTP
+
+100
+
+	70-80 people knows java selenium
+cypress engineers are 5 percent
+
+Organization  xyz
+
+
+individual stand point
+
+
+
+
+
+		b. non functional testing
+			1. performance testing
+			2. security
+			3.session
+			4. cache/cookies 
+			
+
+
+
+
+
+
+
+	5. Automation Testing
+	6. Plan for turning our career into Automation engineer
+	
+		45
+		1. core java
+		2. basics of html
+		3. Locators
+		4. selenium
+		5. datadriven fw
+		6. keyword fw
+		7. testng fw
+		8. pom
+		9. cucumber
+		10.git and jenkins
+
+
+	7. Road map
+
+
+Father said he will get bicycle if marks achieved are more than 500 
+
+
+int marks=400;
+
+if(marks>500)
+{
+get bicycle
+}
+
+
+public class ABC{
+public static void main(String args[])
+{
+System.out.println("Welcome to Quality thought");
+}
+
+
+}
+
+
+
+	8. Q&A

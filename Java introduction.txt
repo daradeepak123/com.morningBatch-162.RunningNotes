@@ -1,0 +1,70 @@
+
+
+
+
+Agenda
+	1. Java introduction
+	2. features in Java
+	3. installations 
+
+
+
+		java programing language
+
+
+language a communication medium
+	
+English
+
+
+programing  i nothing but set of instructions
+
+
+
+we will meet by 8:15 AM daily
+end by ~ 9:30
+Learn java
+Learn selenium
+
+
+	
+
+	1. Mobile application
+	2. Web application 
+	3. desktop application
+	4. OS
+	5. tools
+	6. servers
+
+
+
+
+
+
+Features of java
+
+1. Simple
+2. robust
+3. OOPS supported
+4. portable
+5. secure
+6. parallel executed
+7. Thread 
+
+
+
+1. JDK
+2. eclipse
+
+
+
+
+
+
+
+
+
+
+
+
+

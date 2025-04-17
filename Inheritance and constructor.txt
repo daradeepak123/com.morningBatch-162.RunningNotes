@@ -1,0 +1,152 @@
+
+
+
+Agenda
+	1. inheritance
+	2. constructors
+	3. employee class
+
+
+
+inheritance
+
+
+How do you look like?
+	looks like your parent..
+
+
+class A
+{
+4 m 
+4 v
+
+}
+
+class B extends A
+{
+6 m
+6 v
+
+
+}
+
+class ABC
+{
+p s v m(S a[])
+{
+A o=new A();
+B o1=new B();
+}
+
+}
+
+
+class Addition{
+
+
+
+}
+
+
+class Sub extends Addition{
+
+
+}
+
+class Mul extends Sub{
+
+
+
+}
+
+Class Div extends Mul{
+
+}
+
+
+
+class execution extends div{
+
+execution o=new execution();
+
+
+}
+
+
+Constructor
+
+1. looks like method but it is not
+2. will not have return type
+3. will not have static keyword
+4. can be parameter
+5. can be overloaded
+6. class name and constructor name should be same
+7. cannot be called like method
+8. can be invoked
+9. default constructor
+
+
+public class ABC
+{
+
+a default constructor 
+
+ABC()
+{
+statements
+}
+
+void hello()
+{
+statements
+}
+
+p s v m(S a[])
+{
+
+ABC o=new ABC();
+
+
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

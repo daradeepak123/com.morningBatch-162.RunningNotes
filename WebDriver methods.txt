@@ -1,0 +1,80 @@
+
+
+
+Agenda
+	1. WebDriver methods
+	2. basics of html
+
+
+hypertext markup language 
+
+design front end
+
+
+	1. tags
+	2. attributes
+	3. relations
+
+
+
+
+
+<html>
+	<head>
+		<title>hello</title>
+	</head>
+
+	<body>
+		<div>
+			<label>username</label>
+		</div>
+		
+		<div>
+			<input id="abc"></input>
+		</div>
+		<div>
+			<label name="hello">password</label>
+		</div>
+		
+		<div>
+			<input></input>
+		</div>		
+		<div>
+			<button>login</button>
+		</div>
+				
+	</body>
+</html>
+
+
+	
+
+
+
+
+<html>
+	<head>
+		<div></div>
+		<input></input>
+	</head>
+	<body>
+		<div></div>
+		<input></input>
+	
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

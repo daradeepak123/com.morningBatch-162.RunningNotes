@@ -1,0 +1,179 @@
+
+
+WebDriver methods
+
+how to open browser
+browser settings
+
+
+
+
+1. Open browser  WD d =new CD();
+2. load URL	 d.get(fb.com);
+
+3. Fill fields with creds and click on login
+
+		d.findElement(By.id("email"));
+
+		d.fE(By.name("email"));
+
+
+4. close browser
+
+
+
+Agenda
+	1. Locators
+
+		a. id     
+		b. name
+		c. class
+		d. tag
+		e. linktext
+		f. partial link text
+		g. cssSelector
+		h. xpath
+
+
+
+cssSelector
+	
+
+	id
+	#valueOfID
+
+
+
+
+		WebDriver driver=new ChreomDriver();
+		driver.get("fb.com");
+
+
+		driver.findelement(By.cssSelector("input#email"));
+
+		
+
+
+
+	id and tag name
+
+
+	class
+
+		d.fe(By.cssSelector("input.inputtext._55r1._6luy"))
+
+
+
+	class and tag name
+
+
+	attributes
+
+
+		tag[attribute=value]
+
+
+<input name="abc" type="zyx2" class="qwe"></input>
+<input name="abc1" type="zyx2" class="qwe"></input>
+<input name="abc" type="zyx1" class="qwe"></input>
+<input name="abc1" type="zyx1" class="qwe"></input>
+
+input[name='abc1'][type='zyx2']
+
+
+
+
+
+
+
+	multiple attributes
+
+
+	
+xpath
+
+	1. absolute xpath  /html/body/div[1]/div[1]/div[1]/div/div/div/div[2]/div/div[1]/form/div[1]/div[1]/input
+	2. relative xpath  //
+
+	
+
+		a. just tag
+		b. tag and attribute
+
+		c. tag and multiple attributes
+		
+
+		d. text methods
+
+			text
+			contains text
+
+
+		e. relations
+
+
+
+
+
+
+/secRW
+
+secondleft
+
+drive 5km
+
+/4th right
+
+/drive 6km
+
+/from signal left
+
+
+
+send current location
+
+
+
+
+		a. just tag
+		b. tag and attribute
+
+		c. tag and multiple attributes
+		d. text methods
+		e. relations
+
+
+
+
+
+<input name="abc" type="zyx2" class="qwe"></input>
+<input name="abc1" type="zyx2" class="qwe"></input>
+<input name="abc" type="zyx1" class="qwe"></input>
+<input name="abc1" type="zyx1" class="qwe"></input>
+<button name="abc2" type="zyx2" class="qwe1"></button>
+<button name="abc1" type="zyx1" class="qwe2"></button>
+<button name="abc2" type="zyx1" class="qwe1"></button>
+<button name="abc1" type="zyx3" class="qwe2"></button>
+
+
+//button[@type='zyx3']
+
+//button[@name='abc1' and @type='zyx1' and @class='qwe2']
+
+
+A/B Testing
+
+A/B Testing
+
+//a[contains(text(),'A/')]
+
+
+starts-with
+
+
+//a[starts-with(text(),'A')]
+
+//a[text()='A/B Testing']
+
+
+

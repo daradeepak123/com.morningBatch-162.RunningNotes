@@ -1,0 +1,84 @@
+
+
+
+Agenda
+	1. Selenium Intro
+	2. selenium SetUp
+
+Selenium
+	 is a library designed based on Java
+
+
+Selenium Have 4 components
+
+	a. Selenium IDE  Automated tool which will not ask for any coding
+	b. Selenium RC
+	c. Selenium WebDriver
+	d. Selenium Grid
+
+
+Selenium WebDriver
+
+
+WebDriver is an interface unimplemented methods
+
+childs of 
+
+ChromeDriver
+
+FireFoxDriver
+
+IEDriver
+
+EdgeDriver
+
+SafariDriver
+
+
+
+String
+to know methods/function in String class
+
+Scanner
+
+List<String> list=new ArrayList<>();
+
+
+
+WebDriver driver=new FireFoxDriver();
+
+
+
+class ABC{
+
+ABC()
+{
+syso(this is class ACB);
+}
+
+}
+
+
+class xyz{
+
+p s v m()
+{
+
+ABC o=new ABC();
+
+}
+
+
+}
+
+
+
+
+
+
+
+March@2025
+
+
+
+

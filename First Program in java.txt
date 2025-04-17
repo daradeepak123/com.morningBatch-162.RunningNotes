@@ -1,0 +1,45 @@
+
+
+
+
+Agenda
+	1. Eclipse set up
+	2. Project creation
+	3. Package and class creation
+	4. Main method for execution
+	5. What is a method
+	6. Purpose of method and its benfits
+
+
+Welcome all students with program
+show case what are timings and classes we are going to learn
+
+
+
+lot of code
+
+maintain 
+
+pressure 
+
+
+
+Method is a block of code
+
+when ever you call a method it will come and execute the code present in it
+
+
+returntype methodName()
+{
+code 
+}
+
+
+Assignment
+	1. Create 3 projects
+		a. each project should have 3 packages
+		b. each package should have 2 classes
+		c. welcome with help of methods
+			
+
+

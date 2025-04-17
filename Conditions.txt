@@ -1,0 +1,352 @@
+
+
+
+Agenda
+	1. Conditions
+		a. simple if
+		b. else if	
+		c. ladder
+		d. nested
+		e. switch
+	2. Scanner
+
+
+age  18
+
+skill 1 and skill 2  should have
+
+nationality  Indian
+
+region   north and shoth
+
+
+if(age>=18)
+{
+	if(region.equals("North"))
+	{
+		if(skill1 and skill2)
+		{
+			you will get lisence 
+	
+		}
+		else
+		{
+			you don't have skill
+		}
+	}
+	else if(region.equals("south"))
+	{
+		if(skill1)
+		{
+			you will get lisence 
+	
+		}
+		else
+		{
+			you don't have skill
+		}
+	}
+	else
+	{
+	not eligible
+	}
+}
+else
+{
+syso("not meeting age limit")
+}
+
+
+
+1. electricity billing (some portion as assignment)
+
+	a. home applience 
+	b. commercial
+	c. industries
+
+
+
+	area
+	a. urban
+	b. town
+	c. rural
+	
+
+home cost
+0   -   200  2rs
+201 -   400  4rs
+401 -   700  8rs
+701 -   1000 10rs
+1001 and above 15 rs
+
+
+commercial
+0   -   200  4rs
+201 -   400  8rs
+401 -   700  10rs
+701 -   1000 13rs
+1001 and above 17 rs
+
+
+industries
+0   -   200  8rs
+201 -   400  10rs
+401 -   700  13rs
+701 -   1000 15rs
+1001 and above 20 rs
+
+
+
+
+
+units consumed * cost
+
+
+
+meter
+	reading
+
+
+last month reading     1000
+
+current month reading  1500
+
+
+units=cMonth-lMonth
+
+
+
+
+
+
+2. Job application for assignment
+
+
+
+
+
+
+	if(units>0 & units<=200)
+		{
+			
+			System.out.println("mr/ms "+name+", you need to pay "+units*2+" rs");
+		}
+		
+		else if(units>=201 & units<=400)
+		{
+			
+			System.out.println("mr/ms "+name+", you need to pay"+units*4);
+		}
+		
+		else if(units>=401 & units<=700)
+		{
+			
+			System.out.println("mr/ms "+name+", you need to pay"+units*8);
+		}
+		
+		else if(units>=701 & units<=1000)
+		{
+			
+			System.out.println("mr/ms "+name+", you need to pay"+units*10);
+		}
+		else
+		{
+			System.out.println("mr/ms "+name+", you need to pay"+units*15);
+		}
+
+
+
+
+
+
+
+
+String type="home";
+
+
+
+if(type.equals("home"))
+{
+		if(units>0 & units<=200)
+		{
+			
+			System.out.println("mr/ms "+name+", you need to pay "+units*2+" rs");
+		}
+		
+		else if(units>=201 & units<=400)
+		{
+			
+			System.out.println("mr/ms "+name+", you need to pay"+units*4);
+		}
+		
+		else if(units>=401 & units<=700)
+		{
+			
+			System.out.println("mr/ms "+name+", you need to pay"+units*8);
+		}
+		
+		else if(units>=701 & units<=1000)
+		{
+			
+			System.out.println("mr/ms "+name+", you need to pay"+units*10);
+		}
+		else
+		{
+			System.out.println("mr/ms "+name+", you need to pay"+units*15);
+		}
+
+}
+else if(type.equals("commercial"))
+{
+
+	if(units>0 & units<=200)
+		{
+			
+			System.out.println("mr/ms "+name+", you need to pay "+units*4+" rs");
+		}
+		
+		else if(units>=201 & units<=400)
+		{
+			
+			System.out.println("mr/ms "+name+", you need to pay"+units*8);
+		}
+		
+		else if(units>=401 & units<=700)
+		{
+			
+			System.out.println("mr/ms "+name+", you need to pay"+units*8);
+		}
+		
+		else if(units>=701 & units<=1000)
+		{
+			
+			System.out.println("mr/ms "+name+", you need to pay"+units*10);
+		}
+		else
+		{
+			System.out.println("mr/ms "+name+", you need to pay"+units*15);
+		}
+
+
+}
+
+else if(type.equals("industries"))
+{
+if(units>0 & units<=200)
+		{
+			
+			System.out.println("mr/ms "+name+", you need to pay "+units*2+" rs");
+		}
+		
+		else if(units>=201 & units<=400)
+		{
+			
+			System.out.println("mr/ms "+name+", you need to pay"+units*4);
+		}
+		
+		else if(units>=401 & units<=700)
+		{
+			
+			System.out.println("mr/ms "+name+", you need to pay"+units*8);
+		}
+		
+		else if(units>=701 & units<=1000)
+		{
+			
+			System.out.println("mr/ms "+name+", you need to pay"+units*10);
+		}
+		else
+		{
+			System.out.println("mr/ms "+name+", you need to pay"+units*15);
+		}
+
+
+}
+
+
+
+
+
+
+Find out given number is odd or even number
+
+
+
+
+
+Switch
+	
+	
+	
+
+
+int a=1;
+
+switch(a)
+{
+
+	case 1:
+	{
+		mon
+
+	}
+		case 2:
+	{
+
+		tue
+	}
+		case 3:
+	{
+
+		wed
+	}
+		case 4:
+	{
+
+		thu
+	}
+		case 5:
+	{
+
+		fri
+	}
+		case 6:
+	{
+		sat
+
+	}
+		case 7:
+	{
+		sun
+
+	}
+	default:
+	{
+		enter number form 1-7 only
+	}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

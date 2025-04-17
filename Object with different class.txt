@@ -1,0 +1,95 @@
+
+
+
+Agenda
+	1. Object with different class
+	2. method with parameter
+
+
+
+class ABC
+{
+
+int a=100;
+static int b=500;
+
+p s v m(S a[])
+{
+ABC aa=new ABC();
+syso(aa.a)
+syso(aa.b);
+
+}
+
+
+}
+
+
+
+
+method with parameter
+
+public static void add(int x,int y)
+{
+
+int a=x, int b=y;
+int c=a+b;
+syso(c);
+
+}
+
+p s v m(S a[])
+{
+add(100,100);   //my req
+add(0,1000);		//0+1000
+add(-1000,1000);
+}
+
+
+
+mixer grinder 
+
+name of student
+course name
+timings
+duration in days
+offline available or not
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assignment
+
+	a. Design calculator
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

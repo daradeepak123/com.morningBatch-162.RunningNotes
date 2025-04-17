@@ -1,0 +1,37 @@
+
+
+
+Agenda
+	1. Cucumber  / BDD
+	2. Installation and setup
+	3. feature file
+	4. Step definition
+
+Project folder structure 
+
+
+
+Java
+	exceptions 
+	
+Selenium
+	frames
+	selenium exceptions
+
+frameworks
+
+	TestNG
+		DataProvider
+	
+git and Jenkins
+
+API and DB Automation
+
+
+
+
+
+
+
+
+
