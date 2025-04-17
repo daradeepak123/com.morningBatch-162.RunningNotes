@@ -5,6 +5,37 @@
 Agenda
 	1. Cucumber
 	2. git and Jenkins
+
+
+
+
+
+installations 
+
+
+	git 
+
+
+
+
+
+
+
+
+
+
+
+
+
+git can maintain the versions of code
+
+
+
+
+
+
+
+
 	
 
 
@@ -26,6 +57,119 @@ we will learn git
 
 
 Jenkins jobs
+
+
+
+Versions 
+
+
+
+
+
+
+
+Whats app
+
+
+v1   march 2020
+
+send message and receive message
+
+
+v2  march 2021
+
+emojis
+
+
+v3   aug 2022
+
+
+calling
+
+v3.01
+
+
+
+sep 2023
+
+
+v4 2023 dec
+
+
+v4
+
+video calling
+
+
+v5 status
+
+
+v6 
+
+payments
+
+
+
+
+
+
+
+
+Amazon application
+
+
+
+
+login       10      10-15
+
+
+ 
+reg        12      10-15
+
+
+ 
+search    8        10-15
+
+
+
+checkout  10        10-15
+
+
+
+
+GitHub
+
+tortoise SVN
+
+bitbucket
+codehub
+
+
+
+
+
+
+
+Repository 
+	a. remote repo
+	b. local repo
+
+
+
+
+this is modifications
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
